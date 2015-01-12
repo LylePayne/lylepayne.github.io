@@ -4,7 +4,7 @@
   <title><![CDATA[My Pet Octopus]]></title>
   <link href="http://lylepayne.github.io/atom.xml" rel="self"/>
   <link href="http://lylepayne.github.io/"/>
-  <updated>2015-01-12T16:31:17-05:00</updated>
+  <updated>2015-01-12T16:51:58-05:00</updated>
   <id>http://lylepayne.github.io/</id>
   <author>
     <name><![CDATA[Lyle Payne]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Do You Want to Build a Snowman?]]></title>
+    <link href="http://lylepayne.github.io/blog/2015/01/12/do-you-want-to-build-a-snowman/"/>
+    <updated>2015-01-12T16:39:26-05:00</updated>
+    <id>http://lylepayne.github.io/blog/2015/01/12/do-you-want-to-build-a-snowman</id>
+    <content type="html"><![CDATA[<p>Unfortunately, the weather is not cooperating at the moment, so we cannot.
+To occupy our time instead we will create an Octopress site.</p>
+]]></content>
+  </entry>
   
 </feed>
